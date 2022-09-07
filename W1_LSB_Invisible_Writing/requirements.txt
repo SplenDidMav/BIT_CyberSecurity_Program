@@ -1,0 +1,6 @@
+3rd party library required: Pillow library
+Installation method: console input pip install Pillow (-i https://pypi.tuna.tsinghua.edu.cn/simple/)
+(In brackets, it is recommended to use Tsinghua source, and the download speed is faster than pip source)
+第三方库需要：Pillow库
+安装方法：控制台输入pip install Pillow (-i https://pypi.tuna.tsinghua.edu.cn/simple/)
+(括号内是推荐使用清华源，下载速度快于pip源)
