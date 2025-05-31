@@ -5,10 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZH32siJ5HfbgLM5oxt_V-1" value="" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;network2Icon=mxgraph.networks2.antenna;network2IconYOffset=0.0004;network2IconW=0.508;network2IconH=0.9997;" vertex="1" parent="1">
-          <mxGeometry x="550" y="70" width="25.4" height="49.985" as="geometry" />
+          <mxGeometry x="120" y="70.01" width="25.4" height="49.985" as="geometry" />
         </mxCell>
         <mxCell id="ZH32siJ5HfbgLM5oxt_V-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;Server&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="537.7" y="119.99" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZH32siJ5HfbgLM5oxt_V-3" value="" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;network2Icon=mxgraph.networks2.satellite_dish;network2IconXOffset=-0.0067;network2IconYOffset=0.0022;network2IconW=1.0065;network2IconH=0.9957;" vertex="1" parent="1">
+          <mxGeometry x="542.49" y="75" width="40.43" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
